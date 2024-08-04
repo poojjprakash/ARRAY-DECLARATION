@@ -1,0 +1,10 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	   int a[]=new int[]{12,3,45};
+	   int a1[]={12,4,6};
+	   int b[] = new int[5];
+	   System.out.println(b);
+	}
+}
